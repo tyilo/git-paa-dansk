@@ -34,7 +34,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 |--------------|----------------|--------------|
 | repository   | repository     | repositorium, repo    |
 | branch       | branch         | gren         |
-| commit       | commit         | forpligtelse |
+| commit       | commit         | fastlæggelse |
 | pull request | pull request   | trækanmodning|
 | stash        | stash          | gemme        |
 | tag          | tag            | mærkning     |
