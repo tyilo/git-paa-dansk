@@ -30,7 +30,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
 
-| Substantiv   | Nuvarande bruk | Förslag      |
+| Substantiv   | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
 | repository   | repository     | lager        |
 | branch       | branch         | gren         |
