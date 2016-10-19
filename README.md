@@ -32,7 +32,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 | Substantiv   | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
-| repository   | repository     | lager        |
+| repository   | repository     | repositorium, repo    |
 | branch       | branch         | gren         |
 | commit       | commit         | forpligtelse |
 | pull request | pull request   | trækanmodning|
