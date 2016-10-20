@@ -19,7 +19,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | pull        | pulle          | hale          |
 | push        | pushe          | puffe         |
 | fetch       | fetche         | hente         |
-| branch      | branche        | forgrene      |
+| branch      | branche        | skyde         |
 | commit      | committe       | fastlægge     |
 | rebase      | rebase         | pode          |
 | merge       | merge          | flette        |
