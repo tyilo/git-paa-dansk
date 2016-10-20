@@ -16,8 +16,8 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 | Verbum      | Nuværende brug | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulle          | trække        |
-| push        | pushe          | skubbe        |
+| pull        | pulle          | hale          |
+| push        | pushe          | puffe         |
 | fetch       | fetche         | hente         |
 | branch      | branche        | forgrene      |
 | commit      | committe       | fastlægge     |
@@ -32,24 +32,24 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 | Substantiv   | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
-| repository   | repository     | repositorium, repo    |
+| repository   | repository     | grube        |
 | branch       | branch         | gren         |
 | commit       | commit         | fastlæggelse |
-| pull request | pull request   | trækanmodning|
+| pull request | pull request   | haleanmodning|
 | stash        | stash          | gemme        |
-| tag          | tag            | mærkning     |
+| tag          | tag            | etikette     |
 
 ## Eksempler
 
-    - Gider I trække fra den gren, jeg lige har podet og skubbet til GitHub?
+    - Gider I hale fra den gren, jeg lige har podet og puffet til GitHub?
 
     - Jag har lige forgrenet og har fastlagt ændringerne fra mit gemme der.
 
-    - Send lige en trækanmodning, når du er færdig med fletningen!
+    - Send lige en haleanmodning, når du er færdig med fletningen!
 
     - Det håndplukker vi da bare fra udviklergrenen.
     
-    - Hov, jeg voldskubbede vistnok til mestergrenen!
+    - Hov, jeg voldskubbede vistnok til hovedgrenen!
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
