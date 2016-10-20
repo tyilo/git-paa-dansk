@@ -14,7 +14,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 ## Forslag
 
 
-| Verbum      | Nuværende brug | Forslag       |
+| Udsagnsord  | Nuværende brug | Forslag       |
 |-------------|----------------|---------------|
 | pull        | pulle          | hale          |
 | push        | pushe          | puffe         |
@@ -30,7 +30,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
 
-| Substantiv   | Nuværende brug | Forslag      |
+| Navneord     | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
 | repository   | repository     | grube        |
 | branch       | branch         | gren         |
@@ -43,13 +43,13 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Gider I hale fra den gren, jeg lige har podet og puffet til GitHub?
 
-    - Jag har lige forgrenet og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
 
     - Send lige en haleanmodning, når du er færdig med fletningen!
 
     - Det håndplukker vi da bare fra udviklergrenen.
     
-    - Hov, jeg voldskubbede vistnok til hovedgrenen!
+    - Hov, jeg voldpuffede vistnok til hovedgrenen!
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
