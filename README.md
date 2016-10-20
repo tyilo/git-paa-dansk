@@ -49,7 +49,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
     - Det håndplukker vi da bare fra udviklergrenen.
     
-    - Hov, jeg voldpuffede vistnok til hovedgrenen!
+    - Hov, jeg tvangspuffede vistnok til hovedgrenen!
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
