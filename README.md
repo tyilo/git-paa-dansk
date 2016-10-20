@@ -37,7 +37,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | commit       | commit         | fastlæggelse |
 | pull request | pull request   | haleanmodning|
 | stash        | stash          | gemme        |
-| tag          | tag            | etikette     |
+| tag          | tag            | etiket       |
 
 ## Eksempler
 
