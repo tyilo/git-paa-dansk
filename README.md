@@ -14,12 +14,12 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 ## Forslag
 
 
-| Verbum      | Nuværende brug | Forslag       |
+| Udsagnsord  | Nuværende brug | Forslag       |
 |-------------|----------------|---------------|
-| pull        | pulle          | trække        |
-| push        | pushe          | skubbe        |
+| pull        | pulle          | hale          |
+| push        | pushe          | puffe         |
 | fetch       | fetche         | hente         |
-| branch      | branche        | forgrene      |
+| branch      | branche        | skyde         |
 | commit      | committe       | fastlægge     |
 | rebase      | rebase         | pode          |
 | merge       | merge          | flette        |
@@ -30,26 +30,26 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | amend       | amende         | tilrette      |
 | blame       | blame          | klandre       |
 
-| Substantiv   | Nuværende brug | Forslag      |
+| Navneord     | Nuværende brug | Forslag      |
 |--------------|----------------|--------------|
-| repository   | repository     | repositorium, repo    |
+| repository   | repository     | repositorium, repo |
 | branch       | branch         | gren         |
 | commit       | commit         | fastlæggelse |
-| pull request | pull request   | trækanmodning|
+| pull request | pull request   | haleanmodning|
 | stash        | stash          | gemme        |
 | tag          | tag            | mærkning     |
 
 ## Eksempler
 
-    - Gider I trække fra den gren, jeg lige har podet og skubbet til GitHub?
+    - Gider I hale fra den gren, jeg lige har podet og puffet til GitHub?
 
-    - Jag har lige forgrenet og har fastlagt ændringerne fra mit gemme der.
+    - Jeg har lige skudt en gren og har fastlagt ændringerne fra mit gemme der.
 
-    - Send lige en trækanmodning, når du er færdig med fletningen!
+    - Send lige en haleanmodning, når du er færdig med fletningen!
 
     - Det håndplukker vi da bare fra udviklergrenen.
     
-    - Hov, jeg voldskubbede vistnok til mestergrenen!
+    - Hov, jeg tvangspuffede vistnok til hovedgrenen!
 
     - Husk at mose dine fastlæggelser, inden du fletter.
 
