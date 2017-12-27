@@ -8,7 +8,7 @@ Udtalen foregår typisk med anvendelse af amerikansk engelsk med stærk østdans
 Sig derfor /bwæːnɕ/, ikke /bɹɑːntʃ/.
 
 Dette dokument forsøger at etablere en ren dansk fagjargon, som kan anvendes ikke mindst i skriftlig fremstilling.
-Det er underforstået, at kommunikation i kampens hede bland udviklere bedst foregår på cirkussprog.
+Det er underforstået, at kommunikation i kampens hede blandt udviklere bedst foregår på cirkussprog.
 Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminologi kan udsætte sig for et betydeligt tab af social status bland fagfæller. 
 
 ## Forslag
