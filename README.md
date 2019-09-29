@@ -68,7 +68,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 `BØJNING` -n, -r, -erne  
 `ENGELSK` *commit* (sb.)  
-`OPRINDELSE`  konstrukeret, substantivering af fastlæggelse; i alm. brug betegnes »det at fastlægge noget«, altså handlingen i stedet for resultatet.  
+`OPRINDELSE`  konstrueret, substantivering af fastlæggelse; i alm. brug betegnes »det at fastlægge noget«, altså handlingen i stedet for resultatet.  
 
 ## fjern-
 
@@ -159,7 +159,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 `SAMMENSÆTNINGER` haleanmodning
 
-# hente
+## hente
 
 `BØJNING` -r, -de, -t  
 `GRAMMATIK` verbum, *nogen* henger *nogle ændringer*  
