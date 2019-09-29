@@ -167,7 +167,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 >Jeg foretrækker hente og så genbasere fra fjerngrenen. 
 
->Følgende eksempel viser, hvordan man henter en fjerngren og opdaterer sine lokale arbejdstilstand til fjernerens indhold.
+>Følgende eksempel viser, hvordan man henter en fjerngren og opdaterer sine lokale arbejdstilstand til fjernens indhold.
 
 `SAMMENSÆTNINGER` haleanmodning
 
@@ -232,7 +232,7 @@ Kopier ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p�
 
 >Hold på hat og briller! Jeg tvangspuffer altså lige til hovedgrenen.
 
->Puffet bliver afvist, hvis den fulgte gren på fjernreposet har divergeret.
+>Puffet bliver afvist, hvis den sporede gren på fjernreposet har divergeret.
 
 `SAMMENSÆTNINGER` tvangspuf
 
