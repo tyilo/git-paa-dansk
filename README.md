@@ -54,9 +54,9 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
     - Husk at kvase dine fastlæggelser, inden du fletter.
 
 
-#Ordliste
+# Ordliste
 
-##fastlægge
+## fastlægge
 
 `BØJNING` -r, …lagde, …lagt  
 `GRAMMATIK` verbum, *nogen* fastlægger *nogle ændringer*  eller *nogen* lægger *nogle ændringer* fast.  
@@ -64,13 +64,13 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 `OPRINDELSE`  alm. brugt som »at bestemme, beslutte noget«  
 
 
-##fastlæggelse
+## fastlæggelse
 
 `BØJNING` -n, -r, -erne  
 `ENGELSK` *commit* (sb.)  
 `OPRINDELSE`  konstrukeret, substantivering af fastlæggelse; i alm. brug betegnes »det at fastlægge noget«, altså handlingen i stedet for resultatet.  
 
-##fjern-
+## fjern-
 
 I sammensætninger.
 
@@ -78,7 +78,7 @@ I sammensætninger.
 
 `SAMMENSÆTNINGER` fjernrepos, fjerngren
 
-##fjernen
+## fjernen
 
 Et fjernrepos.
 
@@ -88,7 +88,7 @@ Et fjernrepos.
 
 `SAMMENSÆTNINGER` fjernrepos, fjerngren
 
-##flette (ind)
+## flette (ind)
 
 optage ændringer, fx fra en anden gren, i den aktuelle gren.
 
@@ -104,7 +104,7 @@ optage ændringer, fx fra en anden gren, i den aktuelle gren.
 
 `SAMMENSÆTNINGER` flettekonflikt
 
-##forgrene
+## forgrene
 
 dele en udviklingslinje i to ved at anlægge en ny gren.
 
@@ -117,7 +117,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 `SAMMENSÆTNINGER` forgreningsstrategi
 
 
-##gemme¹
+## gemme¹
 
 
 `BØJNING` -r, -de, -t  
@@ -127,7 +127,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 >Hvis man står med en beskidt arbejdsmappe er det hurtigste er ofte bare at gemme sine ændringer i »rod« eller whatever.
 
-##gemme²
+## gemme²
 
 `BØJNING` -r, -de, -t    
 `UDTALE` [ˈhɑlə]   
@@ -135,7 +135,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 `ENGELSK` *stash* sb.  
 `ALTERNATIV` gemmested  
 
-#gren
+# gren
 
 `BØJNING` -e, -ene  
 `GRAMMATIK` verbum, *nogen* gafler *noget*  
@@ -145,7 +145,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 `SAMMENSÆTNINGER` mestergren, udviklingsgren
 
-##hale
+## hale
 
 `BØJNING` -r, -de, -t  
 `UDTALE` [ˈhɑlə]  
@@ -159,7 +159,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 `SAMMENSÆTNINGER` haleanmodning
 
-#hente
+# hente
 
 `BØJNING` -r, -de, -t  
 `GRAMMATIK` verbum, *nogen* henger *nogle ændringer*  
@@ -171,7 +171,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 `SAMMENSÆTNINGER` haleanmodning
 
-#håndplukke
+# håndplukke
 
 `BØJNING` -r, -de, -t  
 `GRAMMATIK` verbum, *nogen* håndplukker *nogle ændringer*   
@@ -179,13 +179,13 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 
 > Jeg håndplukker 54ae13. Men resten må du lige refaktorisere inden jeg kigger på dem.
 
-#klandre
+# klandre
 
 `BØJNING` -r, -de, -t   
 `GRAMMATIK` verbum, *nogen* klandrer *nogen*   
 `ENGELSK` *blame*   
 
-#kvase
+# kvase
 
 `BØJNING` -r, -de, -t    
 `GRAMMATIK` vb. *nogen* kvaser *nogle ændringer*    
@@ -195,7 +195,7 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 > Du kan lige så godt kvase hele grenen til en enkelt fastlæggelse og så genbasere. Det ser pænere ud i udviklingshistorien.
 
 
-#mærke
+# mærke
 
 en reference, oftest til en fastlæggelse for at beskrive et bestemt punkt i udviklingshistorien.
 
@@ -206,7 +206,7 @@ en reference, oftest til en fastlæggelse for at beskrive et bestemt punkt i udv
 `OPRINDELSE`  alm.  
 
 
-#opmærke
+# opmærke
 
 = mærke op
 
@@ -219,7 +219,7 @@ forsyne en fastlæggelse med ett mærke.
 
 >Vi opmærker med versionsnumre for hver udgave. 
 
-#puffe
+# puffe
 
 Kopier ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren på fjernreposet med fastlæggelser fra en længere lokal gren.
 
@@ -236,7 +236,7 @@ Kopier ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p�
 
 `SAMMENSÆTNINGER` tvangspuf
 
-#genbasere
+# genbasere
 
 gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end det oprindelige.
 
@@ -252,7 +252,7 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 > Det ser nydeligt ud. Hvis du genbaserer på 513ae2, så kan jeg bare spole mestergrenen frem.
 
 
-#repos
+# repos
 
 `BØJNING` -et, -er, -erne  
 `UDTALE` [ʁεˈpo] eller ['ʁεpo]  
@@ -264,13 +264,13 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 > Novra. Det kunne jeg jo lige så godt have halet
 > fra Simones repos.
 
-##spore
+## spore
 
 `ENGELSK` *track* vb.
 
 `SAMMENSÆTNINGER` sporegren, fjernsporegren
 
-#tilrette
+# tilrette
 
 = rette til
 
