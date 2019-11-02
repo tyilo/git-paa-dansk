@@ -59,11 +59,11 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 at skabe en fastlæggelse.
 
-`BØJNING` -r, -lagde, -lagt
-`GRAMMATIK` verbum, *nogen* fastlægger *nogle ændringer*  eller *nogen* lægger *nogle ændringer* fast.
-`ENGELSK` *commit*  (vb.)
+`BØJNING` -r, -lagde, -lagt  
+`GRAMMATIK` verbum, *nogen* fastlægger *nogle ændringer*  eller *nogen* lægger *nogle ændringer* fast. 
+`ENGELSK` *commit*  (vb.) 
 `OPRINDELSE`  alm. brugt som »at bestemme, beslutte noget«  
-`SAMMENSÆTNINGER` fastlægge ændringer, fastlagte ændringer
+`SAMMENSÆTNINGER` fastlægge ændringer, fastlagte ændringer  
 
 ## fastlæggelse
 
@@ -73,7 +73,7 @@ Fastlæggelsen refererer til udviklingshistorien i form af tidligere fastlæggel
 
 `BØJNING` -n, -r, -erne  
 `ENGELSK` *commit* (sb.)  
-`OPRINDELSE`  konstrueret, substantivering af fastlæggelse; i alm. brug betegner fastlæggelse dog »det at fastlægge noget«, altså handlingen i stedet for resultatet.
+`OPRINDELSE`  konstrueret, substantivering af fastlæggelse; i alm. brug betegner fastlæggelse dog »det at fastlægge noget«, altså handlingen i stedet for resultatet. 
 
 > Det sker ofte, at man retter en fastlæggelse til, inden man puffer til en offentlig gren.
 
@@ -81,9 +81,9 @@ Fastlæggelsen refererer til udviklingshistorien i form af tidligere fastlæggel
 
 I sammensætninger.
 
-`ENGELSK` *remote* adj.
+`ENGELSK` *remote* adj. 
 
-`SAMMENSÆTNINGER` fjernrepos, fjerngren, fjernsporende gren
+`SAMMENSÆTNINGER` fjernrepos, fjerngren, fjernsporende gren  
 
 ## fjernen
 
@@ -111,7 +111,7 @@ optage ændringer, fx fra en anden gren, i den aktuelle gren.
 
 >Git gør det nemt og hurtigt at forgrene og flette.
 
-`SAMMENSÆTNINGER` flettekonflikt, flettefastlæggelse, blækspruttefletning
+`SAMMENSÆTNINGER` flettekonflikt, flettefastlæggelse, blækspruttefletning  
 
 ## forgrene
 
@@ -123,32 +123,32 @@ dele en udviklingslinje i to ved at anlægge en ny gren.
 `ENGELSK` *branch* vb.  
 `OPRINDELSE`  alm. i betydningen »dele sig i mindre grene«, bruges dog kun i passive vendinger  
 
-`SAMMENSÆTNINGER` forgreningsstrategi
+`SAMMENSÆTNINGER` forgreningsstrategi  
 
 ## gaffel
 
 en udgave af et andet repos, typisk vedligholdt af en anden bruger eller gruppe af brugere end det oprindelige.
 
-`OPRINDELSE` se »gafle«
-`ENGELSK` *fork* sb.
+`OPRINDELSE` se »gafle« 
+`ENGELSK` *fork* sb. 
 
 >En gaffel er knyttet til det oprindelige repos og gør det nemt at sende en haleanmodning til ejeren for at medtage gaflens ændringer. Du kan også holde din gaffel ajour ved at hale opdateringer fra originalet.
 
-`SAMMENSÆTNINGER` gaffelrepos
+`SAMMENSÆTNINGER` gaffelrepos  
 
 ## gafle
 
 skabe en gaffel.
 
-`ENGELSK` *fork* vb.
-`OPRINDELSE`  kendt på dansk i betydelsen »dele sig i to« (OdS, gafle I:2), jf. vejgaffel.
+`ENGELSK` *fork* vb. 
+`OPRINDELSE`  kendt på dansk i betydelsen »dele sig i to« (OdS, gafle I:2), jf. vejgaffel. 
 
 ## gemme¹
 
 
-`BØJNING` -r, gemte, gemt
-`GRAMMATIK` verbum, *nogen* gemer *sine ændringer*
-`ENGELSK` *stash* vb.
+`BØJNING` -r, gemte, gemt  
+`GRAMMATIK` verbum, *nogen* gemer *sine ændringer* 
+`ENGELSK` *stash* vb. 
 
 >Hvis man står med en beskidt arbejdsmappe er det hurtigste er ofte bare at gemme sine ændringer som »rodebunke« eller *whatever*.
 
@@ -177,12 +177,12 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 ## gren
 
 `BØJNING` -n, -e, -ene  
-`GRAMMATIK` sb.
+`GRAMMATIK` sb. 
 `ENGELSK` *branch* sb.  
 
 >Er vi på samme gren?
 
-`SAMMENSÆTNINGER` mestergren, udviklingsgren, grenspidsen, fjernsporende gren, emnegren
+`SAMMENSÆTNINGER` mestergren, udviklingsgren, grenspidsen, fjernsporende gren, emnegren  
 
 ## hale
 
@@ -196,7 +196,7 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 > Novra. Det kunne jeg jo lige så godt have halet
 > fra Simones repos.
 
-`SAMMENSÆTNINGER` haleanmodning
+`SAMMENSÆTNINGER` haleanmodning  
 
 ## hente
 
@@ -208,12 +208,12 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 
 >Følgende eksempel viser, hvordan man henter en fjerngren og opdaterer sine lokale arbejdstilstand til fjernens indhold.
 
-`SAMMENSÆTNINGER` haleanmodning
+`SAMMENSÆTNINGER` haleanmodning  
 
 ## hoved
 
 `BØJNING` -et, -er, -erne  
-`GRAMMATIK` sb.
+`GRAMMATIK` sb. 
 `ENGELSK` *head*  
 
 en reference til spidsen af en gren. Sat med versaler, `HOVED`, navnet på en bestemt gitreference, som kan pege på et hoved eller en fastlæggelse.
@@ -224,21 +224,21 @@ en reference til spidsen af en gren. Sat med versaler, `HOVED`, navnet på en be
 
 `BØJNING` -r, -de, -t  
 `GRAMMATIK` verbum, *nogen* håndplukker *nogle ændringer*   
-`ENGELSK` *cherry pick* vb.
+`ENGELSK` *cherry pick* vb. 
 
 > Jeg håndplukker 54ae13. Men resten må du lige refaktorisere inden jeg kigger på dem.
 
 ## indeks
 
-`ENGELSK` *index* sb.
+`ENGELSK` *index* sb. 
 
 ## kilde
 
-`BØJNING` -n, -r, -rne
-`GRAMMATIK` sb., ofte i 1. person ental, bestemt form »kilden«
-`ENGELSK` *origin*
-`ALTERNATIV` udspring, ophav, oprindelse
-`SAMMENSÆTNINGER` kilderepos
+`BØJNING` -n, -r, -rne  
+`GRAMMATIK` sb., ofte i 1. person ental, bestemt form »kilden« 
+`ENGELSK` *origin* 
+`ALTERNATIV` udspring, ophav, oprindelse  
+`SAMMENSÆTNINGER` kilderepos  
 
 det forvalgte navn for opstrømsreposet.
 ## klandre
@@ -267,8 +267,8 @@ kopiere et eksisterende repos. Resultatet kaldes en »klon«.
 
 det forvalgte navn for udviklingsgrenen.
 
-`ENGELSK` master
-`ALTERNATIV` herregrenen
+`ENGELSK` master  
+`ALTERNATIV` herregrenen  
 
 > Når man skaber et nyt repos, skapes der en mestergren, som bliver den aktuelle gren.
 
@@ -301,12 +301,12 @@ forsyne en fastlæggelse med ett mærke.
 
 være opstrøms = blive sporet af
 
-`GRAMMATIK` præp., *en gren* er opstrøms *en anden gren*
-`ANTONYM` nedstrøms
+`GRAMMATIK` præp., *en gren* er opstrøms *en anden gren* 
+`ANTONYM` nedstrøms  
 
 >opstrømsgrenen er den forvalgte gren, som flettes in i den pågældende gren, eller som den pågældende gren genbaseres på. Hvis opstrømsgrenen til `A` er `kilde/B`, siger vi sommetider at »`A` sporer `kilde/B`«.
 
-`SAMMENSÆTNINGER` opstrømsgrenen
+`SAMMENSÆTNINGER` opstrømsgrenen  
 
 ## puffe
 
@@ -315,10 +315,10 @@ Kopiere ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p
 `BØJNING` -r, -de, -t   
 `UDTALE` [ˈpɔfə]  
 `GRAMMATIK` verbum, *nogen* puffer *ændringer* til  *et repos*  
-`ENGELSK` *push* vb.
+`ENGELSK` *push* vb. 
 `OPRINDELSE`  alm. i betydningen »give et kontrolleret eller let skub«  
-`ALTERNATIV` skubbe
-`SAMMENSÆTNINGER` tvangspuf
+`ALTERNATIV` skubbe  
+`SAMMENSÆTNINGER` tvangspuf  
 
 >Hold på hat og briller! Jeg tvangspuffer altså lige til hovedgrenen.
 
@@ -328,8 +328,8 @@ Kopiere ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p
 
 -om et repos: et repos er »rent«, hvis dets indhold svarer til samme fastlæggelse, som det aktuelle hovede henviser til.
 
-`GRAMMATIK` adj.
-`ANTONYM` snavset
+`GRAMMATIK` adj. 
+`ANTONYM` snavset  
 
 ## repos
 
@@ -352,25 +352,25 @@ Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et syno
 
 ændre den nuværende aktuelle gren til en anden gren.
 
-`GRAMMATIK` vb., *nogen* skifter gren eller *nogen* skifter til *en gren*.
-`ENGELSK` *switch*, i git-terminologi uheldigvis også *check out*
+`GRAMMATIK` vb., *nogen* skifter gren eller *nogen* skifter til *en gren*. 
+`ENGELSK` *switch*, i git-terminologi uheldigvis også *check out* 
 
 ## spole frem/tilbage
 
-`ENGELSK` *fast-forward*, *rewind* vb.
+`ENGELSK` *fast-forward*, *rewind* vb. 
 
 >Når den indflettede gren forlænger den aktuelle, kan den aktuelle gren bare spoles frem.
 >Det sker ved at flytte den aktuelle grenspids til spidsen af indflette gren.
 
 >Tilbagespoling: at smide dele af udviklingen væk, dvs. at lade hovedet henvise til en tidligere fastlæggelse.
 
-`SAMMENSÆTNINGER` fremspoling, tilbagespoling
+`SAMMENSÆTNINGER` fremspoling, tilbagespoling  
 
 ## spore
 
-`ENGELSK` *track* vb.
+`ENGELSK` *track* vb. 
 
-`SAMMENSÆTNINGER` sporegren, fjernsporegren
+`SAMMENSÆTNINGER` sporegren, fjernsporegren  
 
 ## tilrette
 
@@ -389,12 +389,12 @@ Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et syno
 
 opdatere hele eller dele af arbejdstræet, typisk med information fra fra tidligere fastlæggelser eller andre grene. Se *skifte*.
 
-`GRAMMATIK` vb., *nogen* tjekker *et arkiv* ud fra *en fastlæggelse* eller *en gren*
-`ENGELSK` check (in/out), vb.
+`GRAMMATIK` vb., *nogen* tjekker *et arkiv* ud fra *en fastlæggelse* eller *en gren* 
+`ENGELSK` check (in/out), vb. 
 
 ## ændring
 
-`BØJNING` -en, -er, -erne
-`ENGELSK` *change*, sb.
+`BØJNING` -en, -er, -erne  
+`ENGELSK` *change*, sb. 
 
 >Jeg kan ikke lige hale, fordi der er ændringer i min mappe, som jeg ikke har fået fastlagt endnu.
