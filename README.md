@@ -24,6 +24,7 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 | merge       | merge          | flette        |
 | squash      | squashe        | kvase         |
 | stash       | stashe         | gemme         |
+| switch      | switche        | skifte        |
 | tag         | tagge          | opmærke       |
 | cherry-pick | cherry-picke   | håndplukke    |
 | amend       | amende         | tilrette      |
@@ -173,6 +174,12 @@ gennemføre ændringerne fra en gren påny, men fra en andet udgangspunkt end de
 > Jeg har altid syntes, at genbasering burde være forvalget for `git pull`, men det afhænger jo nok af forgreningsstragetien.
 
 > Det ser nydeligt ud. Hvis du lige genbaserer på `513ae2`, så kan jeg bare spole mestergrenen frem.
+
+## gendanne
+
+`BØJNING` -r, -de, -t  
+`GRAMMATIK` verbum, *nogen* gendanner *et arkiv*  
+`ENGELSK` *restore*    
 
 ## gren
 
@@ -352,8 +359,8 @@ Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et syno
 
 ændre den nuværende aktuelle gren til en anden gren.
 
-`GRAMMATIK` vb., *nogen* skifter gren eller *nogen* skifter til *en gren*. 
-`ENGELSK` *switch*, i git-terminologi uheldigvis også *check out* 
+`GRAMMATIK` vb., *nogen* skifter gren eller *nogen* skifter til *en gren*  
+`ENGELSK` *switch*
 
 ## spole frem/tilbage
 
@@ -387,9 +394,9 @@ Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et syno
 
 ## tjekke (ind/ud)
 
-opdatere hele eller dele af arbejdstræet, typisk med information fra fra tidligere fastlæggelser eller andre grene. Se *skifte*.
+opdatere hele eller dele af arbejdstræet, typisk med information fra fra tidligere fastlæggelser eller andre grene. For at skifte gren, se *skifte*.
 
-`GRAMMATIK` vb., *nogen* tjekker *et arkiv* ud fra *en fastlæggelse* eller *en gren* 
+`GRAMMATIK` vb., *nogen* tjekker *et arkiv* ud fra *en fastlæggelse* eller *en gren*  
 `ENGELSK` check (in/out), vb. 
 
 ## ændring
