@@ -1,4 +1,4 @@
-# Git på dansk
+# Gitte – git på dansk
 
 ## Introduktion
 
