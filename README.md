@@ -56,6 +56,14 @@ Man skal desuden være opmærksom på, at man ved anvendelse af dansk terminolog
 
 # Ordliste
 
+## arbejdsmappe
+
+Roden af den til et gitrepos knyttede del af et filsystem, inklusive filer og mapper, der ikke håndteres af git.
+
+`GRAMMATIK` substantiv
+`ENGELSK` *working directory* 
+`ALTERNATIV`  arbejdstræ
+
 ## fastlægge
 
 at skabe en fastlæggelse.
@@ -345,7 +353,7 @@ Kopiere ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p
 `GRAMMATIK` substantiv  
 `ENGELSK` *repo*, *repository*   
 `OPRINDELSE`  konstrueret; homofon og homonym til det danske substantiv *repos* [ʁεˈpo] »trappeafsats«, der kommer fra fransk *repos* »hvile«.  
-`ALTERNATIVER` repot (jf. *depot*), måske med udtale [ʁεˈpoˀd]; repositorium.  
+`ALTERNATIVER` repot (jf. *depot*), måske med udtale [ʁεˈpoˀd]; repositorium; lager, depot.
 
 > Novra. Det kunne jeg jo lige så godt have halet fra Simones repos.
 
@@ -354,6 +362,16 @@ Kopiere ændringer til et fjernrepos, typisk ved at udvide en eksisterene gren p
 = fastlæggelse
 
 Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et synonym for »genovervejelse«, hvilket er det stik modsatte af en fastlagt ændring.
+
+## samlingsplads
+
+Stedet, hvor ændringer bliver samlet til den næste fastlæggelse.
+Også kaldt indeks (som i register, indholdsfortegnelse).
+
+`GRAMMATIK` substantiv
+`ENGELSK` *staging area*
+
+>
 
 ## skifte
 
@@ -394,7 +412,8 @@ Bør på dansk bruges med forsigtighed, idet ordet »revision« også er et syno
 
 ## tjekke (ind/ud)
 
-opdatere hele eller dele af arbejdstræet, typisk med information fra fra tidligere fastlæggelser eller andre grene. For at skifte gren, se *skifte*.
+opdatere hele eller dele af arbejdsmappen, fx med information fra tidligere fastlæggelser på andre grene.
+For at skifte gren, se *skifte*.
 
 `GRAMMATIK` vb., *nogen* tjekker *et arkiv* ud fra *en fastlæggelse* eller *en gren*  
 `ENGELSK` check (in/out), vb. 
